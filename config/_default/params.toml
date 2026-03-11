@@ -10,7 +10,7 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2023
     customText = ""
 
 [dateFormat]
@@ -18,17 +18,21 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "🗿"
+    subtitle = """
+Run a run 😬 run a run 😔
+Run away from all the pain inside😭
+Run a run 😫 run and hide 😩
+RRRRRRR R U Ready 😎"""
     avatar   = "img/avatar.png"
 
 [article]
-    headingAnchor = false
-    math          = false
+    headingAnchor = true
+    math          = true
     readingTime   = true
 
     [article.license]
-        enabled = true
+        enabled = false
         default = "Licensed under CC BY-NC-SA 4.0"
 
 [widgets]
@@ -40,9 +44,6 @@ SortBy              = "default"
     ]
     page = [{ type = "toc" }]
 
-[opengraph.twitter]
-    site = ""
-    card = "summary_large_image"
 
 [colorScheme]
     toggle  = true
@@ -50,7 +51,7 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml

@@ -1,3 +1,13 @@
-/*
-    You can add your own custom styles here.
-*/
+:root {
+    --sidebar-width: 320px; 
+}
+
+.sidebar.left {
+    width: var(--sidebar-width);
+}
+
+.site-description {
+    white-space: pre;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
