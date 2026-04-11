@@ -1,1 +1,1 @@
-no
+Yet Another Blog Project

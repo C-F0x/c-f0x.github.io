@@ -13,7 +13,7 @@ build:
 ---
 Now Resurrected, but RROS resurrects when...
 
-博客存在中英两语混用，原因如下
+两语混用权当致敬一下
 
 >所有人，不论长幼都必须会说英语
 
