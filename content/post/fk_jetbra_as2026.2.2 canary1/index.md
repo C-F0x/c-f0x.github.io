@@ -11,6 +11,8 @@ categories:
 build:
     list: always
 tags:
+    - Debug
+    - Dev
 
 ---
 用的jetbrain toolbox
@@ -27,3 +29,11 @@ Windows开新用户了，jdk26删掉换jdk25，as重装，环境变量删了又�
 
 最后还是回滚了.
 
+--------
+0925：jetbra修好了，花了五天。。。推了canary2
+
+并且canary1撤包了，气笑了。
+
+也是真的当上金丝雀了
+
+![jbtoolbox](withdrew.png)
